@@ -1,0 +1,26 @@
+{
+  "name": "Chequer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bunx --bun vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vite-pwa/assets-generator": "^1.0.2",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.9",
+    "vite-plugin-pwa": "^1.1.0",
+    "workbox-window": "^7.4.0"
+  },
+  "resolutions": {
+    "sharp": "^0.33.5",
+    "sharp-ico": "^0.1.5"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tafqit": "^0.0.1",
+    "tailwindcss": "^4.3.3"
+  }
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80.503349mm"
+   height="80.46331mm"
+   viewBox="0 0 80.503349 80.46331"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(0.29548058,0.07530678)">
+    <g
+       id="g8">
+      <rect
+         style="fill:#1e1e21;fill-opacity:1;stroke-width:0.238363"
+         id="rect5"
+         width="80"
+         height="79.999985"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#5495f6;fill-opacity:1;stroke-width:0.187146"
+         id="rect6"
+         width="40"
+         height="40"
+         x="-0.29548061"
+         y="-0.075306773" />
+      <rect
+         style="fill:#5495f6;fill-opacity:1;stroke-width:0.187145"
+         id="rect7"
+         width="40"
+         height="40"
+         x="40.207867"
+         y="40.388004" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:77.6111px;font-family:'Rubik Iso';-inkscape-font-specification:'Rubik Iso';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#5495f6;fill-opacity:1;stroke-width:0.264583"
+       x="-4.8719406"
+       y="70.108742"
+       id="text4"><tspan
+         id="tspan4"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:77.6111px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Bold Italic';fill:#fffff6;fill-opacity:1;stroke-width:0.264583"
+         x="-4.8719406"
+         y="70.108742">Cr</tspan></text>
+  </g>
+</svg>
