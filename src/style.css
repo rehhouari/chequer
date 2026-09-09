@@ -12,6 +12,7 @@
   container-type: inline-size;
 }
 #pwa-toast {
+  background-color: #eee;
   visibility: hidden;
   position: fixed;
   right: 0;
